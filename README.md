@@ -12,17 +12,18 @@
 ### 📕 About
 
 
-
+&nbsp;
 ### ❓ Why the app
 
 
-
+&nbsp;
 ### ⛏️ Tools used
 
 - [Expo](https://docs.expo.dev/)
 - [TypeScript](https://www.typescriptlang.org/docs/)
 - [React Native](https://reactnative.dev/docs/getting-started)
 
+&nbsp;
 ### 🤝🏽 How to contribute
 
 You need to have [Node](https://nodejs.org/en/download), [Git](https://git-scm.com/download/win) and [VsCode](https://code.visualstudio.com/download) installed on your computer.
