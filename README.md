@@ -18,7 +18,7 @@ Application that allows you to add your credit and debit cards.
 
 ### ❓ Why the app
 
-Project idea made by [orodrigogo](https://github.com/orodrigogo) in the YouTube video: https://www.youtube.com/watch?v=qKGh8pUuBaU&pp=ygUScm9kcmlnbyBnb27Dp2FsdmVz, with some features implemented by me, such as the flag buttons allowing the card to be rotated and changed visually, and the add button that I used useState to show the user the inactive button after the click.
+Project idea made by [orodrigogo](https://github.com/orodrigogo) in the YouTube video: https://www.youtube.com/watch?v=qKGh8pUuBaU&pp=ygUScm9kcmlnbyBnb27Dp2FsdmVz, with some additional features implemented by me, such as the buttons to choose the card flag, allowing the card to be rotated and visually changed according to the flag, data formatting through input, and the add button that I used useState to show the user the visual change of the inactive button after to click .
 
 #
 
