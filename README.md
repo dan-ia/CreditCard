@@ -1,5 +1,3 @@
-<p align="center">🚧👷🏽‍♂️ README IN CONSTRUCTION 👷🏽‍♂️🚧</p>
-
 <div align="center">
   <img src="./assets/icon.png" widht="100px" height="100px">
 </div>
@@ -8,22 +6,31 @@
  <p>Credit Card</p>
 </h1>
 
+<div align="center">
+  <img src="./assets/tela.gif" widht="98%">
+</div>
 
 ### 📕 About
 
+Application that allows you to add your credit and debit cards.
 
-&nbsp;
+#
+
 ### ❓ Why the app
 
+Project idea made by [orodrigogo](https://github.com/orodrigogo) in the YouTube video: https://www.youtube.com/watch?v=qKGh8pUuBaU&pp=ygUScm9kcmlnbyBnb27Dp2FsdmVz, with some features implemented by me, such as the flag buttons allowing the card to be rotated and changed visually, and the add button that I used useState to show the user the inactive button after the click.
 
-&nbsp;
+#
+
 ### ⛏️ Tools used
 
 - [Expo](https://docs.expo.dev/)
 - [TypeScript](https://www.typescriptlang.org/docs/)
 - [React Native](https://reactnative.dev/docs/getting-started)
+- [React Reanimated](https://www.reanimated2.com/docs/fundamentals/getting-started)
 
-&nbsp;
+#
+
 ### 🤝🏽 How to contribute
 
 You need to have [Node](https://nodejs.org/en/download), [Git](https://git-scm.com/download/win) and [VsCode](https://code.visualstudio.com/download) installed on your computer.
@@ -32,7 +39,7 @@ And to run the application, simply download [Expo Go](https://play.google.com/st
 
 Or install the [Android emulator](https://developer.android.com/studio?hl=pt-br) on your computer and download Expo Go from the Play Store using the emulator.
 
-#### Siga o passo a passo:
+#### Follow the step by step
 
 ````bash
     # Clone the project
