@@ -6,13 +6,15 @@
  <p>Credit Card</p>
 </h1>
 
-<div align="center">
-  <img src="./assets/tela.gif" widht="98%">
-</div>
-
 ### 📕 About
 
 Application that allows you to add your credit and debit cards.
+
+#
+
+<div align="center">
+  <img src="./assets/tela.gif" widht="98%">
+</div>
 
 #
 
